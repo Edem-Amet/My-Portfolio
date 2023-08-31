@@ -1,5 +1,5 @@
 # My-Portfolio
-My first simple portfolio website hosted on vercelv
+My first simple portfolio website hosted using Github
 # Simple Portfolio Website
 
 This is a simple portfolio website that showcases my projects, skills, and contact information. The website was built using HTML, CSS, and JavaScript.
