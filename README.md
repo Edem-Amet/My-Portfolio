@@ -19,7 +19,7 @@ This is a simple portfolio website that showcases my projects, skills, and conta
 
 ## Live Demo
 
-Check out the live demo of the portfolio website: [Portfolio Demo](https://www.example.com)
+Check out the live demo of the portfolio website:https://edem-amet.github.io/My-Portfolio/
 
 ## Installation
 
